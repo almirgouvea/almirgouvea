@@ -9,7 +9,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Extraindo informações de Artigos em PDF:** https://bit.ly/34wN2Bv
+* **Extraindo informações de Artigos em PDF:** https://bit.ly/3fRFVca
 ---
 
 ### Sobre mim:
