@@ -9,9 +9,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Extraindo informações de Artigos em PDF:** https://bit.ly/3fRFVca
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/h1k5au2DdGc/0.jpg)](https://www.youtube.com/watch?v=h1k5au2DdGc "Extraindo informações de Artigos em PDF")
+* **Projeto de EDA**
 
 
 ---
@@ -24,6 +22,5 @@ Sólidos conhecimentos em: Compreensão e resolução de problemas, Oracle EBS e
 
 * Graduação em Bacharelado Interdisciplinar em Ciência e Tecnologia pela UNIFAL.
 * Graduação em Engenharia de Minas pela UNIFAL.
+* Licenciatura em Matemática pela UNIFRAN.
 * Mestre em Engenharia Mineral pela USP.
-
-
