@@ -1,26 +1,34 @@
-[![author](https://img.shields.io/badge/author-almirgouvea-red.svg)](https://www.linkedin.com/in/almirgouvea) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
-
 <p align="center">
   <img src="banner.png" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+# Hello everyone! It's a pleasure to have you here.
 
-## Projetos:
-Lista de projetos em Jupyter Notebook:
+The main objective of this portfolio is to demonstrate my hard skills in solving business challenges through my knowledge of Data Science. <br>
 
-* **Projeto de EDA**
+I am developing myself to execute all stages of developing a business solution using the concepts and tools of Data Science, from knowing the business issue to publishing the model on Clouds.
+
+## Data Science Projects:
+
+### Exploratory Data Analysis
+
+* **Business Problem:** House Rocket's business model consists of purchasing and reselling properties through a digital platform. The data scientist is responsible for developing an online dashboard to help the CEO company overview properties available on House Rocket's portfolio and find the best business opportunities.
+* **Solution:** I specified which properties are recommendable to purchase or not, considering region, median price, and season. I developed an online dashboard on the Heroku platform, making it easy for the CEO to perform data visualization, helping to choose the business decisions to get a high profit.
+* **Business Result:** On the best option, the company must buy 11877 properties resulting in a US$1,420,125,681.90 profit.
+* **Project**: [**Exploratory Data Analysis**](https://github.com/almirgouvea/P001-Exploratory-Data-Analysis-House-Rocket)
 
 
 ---
 
-### Sobre mim:
+### Curiosities about me:
 
-Profissional com 5 anos de experiência atuando em empresa de grande porte do segmento de Tecnologia da informação e serviços.
+Professional with six years of experience working in a large company focused on information technology and services.
 
-Sólidos conhecimentos em: Compreensão e resolução de problemas, Oracle EBS e Oracle Database (criação de usuários, contas de serviço e alterações de contas), Priorização de demandas e Aprendizado contínuo de novas tecnologias.
+Solid knowledge in Understanding and solving problems, Oracle EBS and Oracle Database (creation of users, service accounts, and account changes), Prioritizing demands, and Continuous learning of new technologies.
 
-* Graduação em Bacharelado Interdisciplinar em Ciência e Tecnologia pela UNIFAL.
-* Graduação em Engenharia de Minas pela UNIFAL.
-* Licenciatura em Matemática pela UNIFRAN.
-* Mestre em Engenharia Mineral pela USP.
+* Master's degree in Rock Mechanics USP Polytechnic School.
+* Major in Mathematics through University of Franca.
+* Bachelor degree in Mining and Mining Engineering through Federal University of Alfenas.
+* Bachelor degree in Science and Technology through Federal University of Alfenas
+
+[![Almir's GitHub stats](https://github-readme-stats.vercel.app/api?username=almirgouvea)](https://github.com/anuraghazra/github-readme-stats)
