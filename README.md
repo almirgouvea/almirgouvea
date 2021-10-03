@@ -12,7 +12,7 @@ I am developing myself to execute all stages of developing a business solution u
 
 ### The Crisp-DM Methodology
 * **Business Problem:** A data science project must have a reliable and repeatable process to ensure easy follow-up and understanding by all teams.
-* **Solution:** I developed an online jupyter-book that describes in detail all the steps of CRISP-DM.
+* **Solution:** I developed an online jupyter-book that describes in detail all the steps of CRISP-DM methodology.
 * **Project:** [**The Crisp-DM Methodology**](https://almirgouvea.github.io/The-Crisp-DM-Model)
 
 
