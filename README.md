@@ -10,6 +10,13 @@ I am developing myself to execute all stages of developing a business solution u
 
 ## Data Science Projects:
 
+### The Crisp-DM Methodology
+* **Business Problem:** A data science project must have a reliable and repeatable process to ensure easy follow-up and understanding by all teams.
+* **Solution:** I developed an online jupyter-book that describes in detail all the steps of CRISP-DM.
+* **Project:** [**The Crisp-DM Methodology**](https://almirgouvea.github.io/The-Crisp-DM-Model)
+
+
+
 ### Exploratory Data Analysis
 
 * **Business Problem:** House Rocket's business model consists of purchasing and reselling properties through a digital platform. The data scientist is responsible for developing an online dashboard to help the CEO company overview properties available on House Rocket's portfolio and find the best business opportunities.
