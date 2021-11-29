@@ -10,7 +10,15 @@ I am developing myself to execute all stages of developing a business solution u
 
 ## Data Science Projects:
 
+### Data Engineering Project
+
+* **Business Problem:** Two businessmen, named Eduardo and Marcelo, wanted to start an e-commerce company called Star Jeans to sell men's jeans pants. The data scientist is responsible for determining the raw materials, types, colors, and best price to sell jeans pants.
+* **Solution Strategy:** Using a script, the data was collected, cleaned up, and insert it into a database.
+* **Business Result:** Based on the business criteria, a script is running to collect data from the website for a period. After that, the results will be analyze.
+* **Project:** [**E-commerce Script**](https://github.com/almirgouvea/P002-Data-Engineering-Project-E-commerce/blob/main/webscraping_hm.py)
+
 ### The Crisp-DM Methodology
+
 * **Business Problem:** A data science project must have a reliable and repeatable process to ensure easy follow-up and understanding by all teams. It is essential to know all the steps.
 * **Solution:** I developed an online jupyter-book that describes in detail all the steps of CRISP-DM methodology.
 * **Project:** [**The Crisp-DM Methodology**](https://almirgouvea.github.io/The-Crisp-DM-Methodology)
