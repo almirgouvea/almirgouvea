@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="datascience.jpeg" >
+  <img src="banner.png" >
 </p>
 
 # Hello everyone! It's a pleasure to have you here.
